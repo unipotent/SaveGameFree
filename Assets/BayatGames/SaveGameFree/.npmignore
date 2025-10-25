@@ -10,8 +10,6 @@ Examples.meta
 # Unity-specific files not needed in package
 PressKit/
 PressKit.meta
-Plugins.meta
-Plugins
 Web
 Web.meta
 
