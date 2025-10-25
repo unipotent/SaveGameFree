@@ -1,5 +1,5 @@
 # Unity meta files
-*.meta
+# *.meta
 
 # Documentation source (keep Documentation~ for package)
 Documentation.meta
