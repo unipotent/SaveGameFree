@@ -1,6 +1,6 @@
 {
-    "name": "BayatGames",
-    "rootNamespace": "BayatGames",
+    "name": "Bayat.Unity.SaveGameFree",
+    "rootNamespace": "Bayat.Unity.SaveGameFree",
     "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
